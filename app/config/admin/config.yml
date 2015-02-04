@@ -17,7 +17,7 @@ twig:
 
 # Assetic Configuration
 assetic:
-    bundles:        [ ClientWebsiteBundle ]
+    bundles:        [ VlbgWebsiteBundle ]
 
 # Doctrine Configuration
 doctrine:

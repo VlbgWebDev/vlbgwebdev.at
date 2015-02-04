@@ -14,7 +14,7 @@ twig:
 
 # Assetic Configuration
 assetic:
-    bundles:        [ ClientWebsiteBundle ]
+    bundles:        [ VlbgWebsiteBundle ]
 
 cmf_routing:
     chain:

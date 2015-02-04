@@ -54,7 +54,7 @@ abstract class AbstractKernel extends SuluKernel
             new Sulu\Bundle\SearchBundle\SuluSearchBundle(),
 
             // website
-            new Client\Bundle\WebsiteBundle\ClientWebsiteBundle(),
+            new Vlbg\Bundle\WebsiteBundle\VlbgWebsiteBundle(),
             new Liip\ThemeBundle\LiipThemeBundle(),
 
             // tools

@@ -84,8 +84,8 @@ fos_rest:
         default_format: json
 
 liip_theme:
-    themes: ["default"]
-    active_theme: "default"
+    themes: ["vlbgwebdev"]
+    active_theme: "vlbgwebdev"
     load_controllers: false
 
 sulu_core:
